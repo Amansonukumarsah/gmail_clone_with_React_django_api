@@ -5,7 +5,6 @@
 This project is a Gmail-like clone designed to replicate the functionalities of Google's Gmail interface and backend services. 
 It leverages **React.js** for the frontend to create an interactive and user-friendly email management system and **Django REST Framework** for the backend to handle APIs for email-related operations.
 
----
 
 ## **Features**
 
@@ -167,11 +166,3 @@ gmailbackendapi/
 5. **UI Enhancements**:
    - Optimize the UI for mobile devices.
    - Add animations and transitions for a more interactive experience.
-
-
-## **License**
-[Specify the license here, e.g., MIT License]
-
----
-
-This detailed description can now be used as your repository's `README.md`. Let me know if you'd like to refine any specific sections!
